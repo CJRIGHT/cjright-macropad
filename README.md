@@ -3,6 +3,8 @@ A custom 3 key macropad made for convenience with: KiCad and AutoCad Fusion.
 
 This is my first time every participating in a event such as Stardance, this first project has been very fun to work through and I have learnt so much. Thanks to the event organisers and partners for making it possible.
 
+I decided to try it since once I finish school I really would like to get into software engineering or something similar I figured it's good to learn as much about electronics as possible to help my chances of succeeding. 
+
 
 # 📷 Gallery
 
